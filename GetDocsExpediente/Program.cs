@@ -19,8 +19,7 @@ namespace GetDocsExpediente
         {
             string User = ConfigurationManager.AppSettings["user"];
             string Pass = ConfigurationManager.AppSettings["password"];
-            string Url = ConfigurationManager.AppSettings["SiteURL"];        
-
+            string Url = ConfigurationManager.AppSettings["SiteURL"];
 
             //LOGIN
 
